@@ -13,7 +13,7 @@ const Home = () => {
 
         <div className='HomeText'>
           <h1>Hi There!</h1>
-          <h1>I'M <b> Bewin Felix</b></h1>
+          <h1>I'M <b> Madhan M</b></h1>
           <Typed/>   
         </div>
 
@@ -30,9 +30,9 @@ const Home = () => {
           <h1 className='AboutTextHeading'>Brief <b>introduction</b></h1>
           <p>
           
-Passionate and dedicated Full Stack Web Development student at Karunya Institute of Technology and Sciences, equipped with a solid foundation in <b>Frontend Development, Backend Development</b>, and <b>Database Management</b>. Eager to apply my educational background and enthusiasm for web development to contribute to a dynamic organization's projects, while continually honing my skills and expanding my knowledge. Excited about the opportunity to create innovative and user-friendly web solutions that meet the evolving needs of the digital landscape.
+Passionate and dedicated Cybersecurity student at Karunya Institute of Technology and Sciences, equipped with a solid foundation in <b>Network security, Digital Forensics</b>, and <b>Ethical hacking</b>. Eager to leverage my education and passion for digital security to contribute to a dynamic organization's cybersecurity initiatives while continuously enhancing my skills and knowledge.
 
-            <br></br><br></br>Also, I love <b>Black coffee</b> and <b>compatetive games</b> <CiCoffeeCup style={{scale:"1.5", rotate:"15deg"}}/>   
+            <br></br><br></br>Also, I love <b>competitive games</b>
           </p>
         </div>
         <Tilt>

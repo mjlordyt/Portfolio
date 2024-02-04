@@ -8,18 +8,8 @@ import { FaAws } from "react-icons/fa";
 const Skills = ({skill}) => {
     const icon = {
         'C++': <CgCPlusPlus/>,
-        Postman: <SiPostman/>,
-        React: <FaReact/>,
         Javascript: <DiJavascript1/>,
-        Node : <DiNodejs/>,
-        Express : <SiExpress/>,
-        MongoDb : <SiMongodb/>,
-        Git : <FaGitAlt/>,
         Github : <FaGithub/>,
-        Npm : <FaNpm/>,
-        Figma : <FaFigma/>,
-        Bootstrap: <FaBootstrap/>,
-        Vercel : <SiVercel/>,
         Python : <FaPython/>,
         aws :<FaAws/>
          
